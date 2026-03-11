@@ -19,6 +19,7 @@
 - **Weather API Integration**
 
 ## 📸 Screenshots
+<p align="center">
   <img width="180" alt="Home Screen" src="https://github.com/user-attachments/assets/ff629bb8-6fec-428d-882e-31aa70a66bbc" />
   <img width="180" alt="Search Result" src="https://github.com/user-attachments/assets/44c3623c-abe1-4b3a-a859-b9ffe698fe86" />
   <img width="180" alt="Language Selection" src="https://github.com/user-attachments/assets/e5249b6f-d25d-4eb6-ab97-66a3115b9e0b" />
