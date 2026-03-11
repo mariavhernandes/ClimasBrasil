@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Projeto2</string>
+    <string name="textoMenuPrincipal">Visualizza Meteo in Brasile</string>
+    <string name="textoIdiona">Cambia Lingua</string>
+    <string name="btnVoltar">Chiudi</string>
+    <string name="temperatura_format">%s°C</string>
+    <string name="atualizar_clima">Cerca</string>
+    <string name="erro_clima">Errore nel recupero dei dati meteo</string>
+    <string name="hint_digite_cidade">Inserisci il nome della città</string>
+    <string name="label_digite_cidade">Inserisci una città</string>
+</resources>

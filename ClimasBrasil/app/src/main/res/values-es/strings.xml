@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Projeto2</string>
+    <string name="textoMenuPrincipal">Ver Clima en Brasil</string>
+    <string name="textoIdiona">Cambiar Idioma</string>
+    <string name="btnVoltar">Salir</string>
+    <string name="temperatura_format">%s°C</string>
+    <string name="atualizar_clima">Buscar</string>
+    <string name="erro_clima">Error al buscar datos del clima</string>
+    <string name="hint_digite_cidade">Ingrese el nombre de la ciudad</string>
+    <string name="label_digite_cidade">Ingrese una ciudad</string>
+</resources>

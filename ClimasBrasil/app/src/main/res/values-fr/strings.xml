@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Projeto2</string>
+    <string name="textoMenuPrincipal">Voir la Météo au Brésil</string>
+    <string name="textoIdiona">Changer la Langue</string>
+    <string name="btnVoltar">Fermer</string>
+    <string name="temperatura_format">%s°C</string>
+    <string name="atualizar_clima">Rechercher</string>
+    <string name="erro_clima">Erreur lors de la recherche des données météo</string>
+    <string name="hint_digite_cidade">Entrez le nom de la ville</string>
+    <string name="label_digite_cidade">Entrez une ville</string>
+</resources>

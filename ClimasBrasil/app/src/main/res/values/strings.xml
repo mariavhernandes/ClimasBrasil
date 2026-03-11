@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Projeto2</string>
+    <string name="textoMenuPrincipal">Visualizar Climas no Brasil</string>
+    <string name="textoIdiona">Alterar Idioma</string>
+    <string name="btnVoltar">Voltar</string>
+    <string name="temperatura_format">%s°C</string>
+    <string name="atualizar_clima">Buscar</string>
+    <string name="erro_clima">Erro ao buscar dados do clima</string>
+    <string name="hint_digite_cidade">Digite o nome da cidade</string>
+    <string name="label_digite_cidade">Digite uma cidade</string>
+</resources>
