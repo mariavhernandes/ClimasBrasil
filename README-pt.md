@@ -1,7 +1,7 @@
 | [Português 🇧🇷](README-pt.md) | [English 🇺🇸](README.md) |
 |---|---|
 
-# Climas do Brasil - Aplicativo Climatológico 🌦️
+# Climas do Brasil - Aplicativo Climatológico
 
 ## 📌 Sobre o Projeto
 O **Climas do Brasil** é uma aplicação móvel desenvolvida no **Android Studio** que permite consultar informações climáticas em tempo real de qualquer cidade do Brasil. O projeto destaca-se pela integração com APIs externas para consumo de dados e pela implementação de um sistema de internacionalização.
@@ -20,7 +20,7 @@ O **Climas do Brasil** é uma aplicação móvel desenvolvida no **Android Studi
 
 ## 📸 Capturas de Tela
 <p align="center">
-  <img width="180" alt="Tela Inicial" src="SUA_URL_AQUI_1" />
-  <img width="180" alt="Resultado da Busca" src="SUA_URL_AQUI_2" />
-  <img width="180" alt="Seleção de Idioma" src="SUA_URL_AQUI_3" />
+  <img width="180" alt="Home Screen" src="https://github.com/user-attachments/assets/ff629bb8-6fec-428d-882e-31aa70a66bbc" />
+  <img width="180" alt="Search Result" src="https://github.com/user-attachments/assets/44c3623c-abe1-4b3a-a859-b9ffe698fe86" />
+  <img width="180" alt="Language Selection" src="https://github.com/user-attachments/assets/e5249b6f-d25d-4eb6-ab97-66a3115b9e0b" />
 </p>
